@@ -1,5 +1,8 @@
-layout : single
-title : HTML&CSS+JS_Learning
+---
+layout: single
+title:  HTML&CSS+JS_Learning
+---
+
 
 #HTML+CSS+JS 포트폴리오 실전 퍼블리싱(시즌1)
 
